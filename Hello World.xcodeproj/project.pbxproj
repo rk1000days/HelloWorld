@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		18DBF646239F56380058E607 /* HelloWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		18DBF646239F56380058E607 /* Hello World.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hello World.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18DBF649239F56380058E607 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18DBF64B239F56380058E607 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		18DBF64D239F56380058E607 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		18DBF647239F56380058E607 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				18DBF646239F56380058E607 /* HelloWorld.app */,
+				18DBF646239F56380058E607 /* Hello World.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		18DBF645239F56380058E607 /* HelloWorld */ = {
+		18DBF645239F56380058E607 /* Hello World */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 18DBF65A239F563A0058E607 /* Build configuration list for PBXNativeTarget "HelloWorld" */;
+			buildConfigurationList = 18DBF65A239F563A0058E607 /* Build configuration list for PBXNativeTarget "Hello World" */;
 			buildPhases = (
 				18DBF642239F56380058E607 /* Sources */,
 				18DBF643239F56380058E607 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = HelloWorld;
+			name = "Hello World";
 			productName = HelloWorld;
-			productReference = 18DBF646239F56380058E607 /* HelloWorld.app */;
+			productReference = 18DBF646239F56380058E607 /* Hello World.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 18DBF641239F56380058E607 /* Build configuration list for PBXProject "HelloWorld" */;
+			buildConfigurationList = 18DBF641239F56380058E607 /* Build configuration list for PBXProject "Hello World" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				18DBF645239F56380058E607 /* HelloWorld */,
+				18DBF645239F56380058E607 /* Hello World */,
 			);
 		};
 /* End PBXProject section */
@@ -319,7 +319,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		18DBF641239F56380058E607 /* Build configuration list for PBXProject "HelloWorld" */ = {
+		18DBF641239F56380058E607 /* Build configuration list for PBXProject "Hello World" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				18DBF658239F563A0058E607 /* Debug */,
@@ -328,7 +328,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		18DBF65A239F563A0058E607 /* Build configuration list for PBXNativeTarget "HelloWorld" */ = {
+		18DBF65A239F563A0058E607 /* Build configuration list for PBXNativeTarget "Hello World" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				18DBF65B239F563A0058E607 /* Debug */,
